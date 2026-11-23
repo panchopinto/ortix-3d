@@ -1,6 +1,6 @@
 # ORTIX 3D
 
-Sitio web estático en español del proyecto **ORTIX 3D**, del Liceo Bicentenario de Excelencia Polivalente San Nicolás, presentado en la Feria de Ciencias UNACh 2026. Está pensado para abrirse desde un código QR en un celular.
+Sitio web estático en español del proyecto **ORTIX 3D**, del Liceo Bicentenario de Excelencia Polivalente San Nicolás, presentado en la Feria de las Ciencias. Está pensado para abrirse desde un código QR en un celular.
 
 Es HTML, CSS y JavaScript sin dependencias ni servicios externos. Todas las rutas son relativas, así que funciona desde la subruta de GitHub Pages (`https://USUARIO.github.io/ortix-3d/`).
 
